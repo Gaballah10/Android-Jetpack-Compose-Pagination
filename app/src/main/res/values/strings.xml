@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartZoneTestCompose</string>
+
+    <string name="home_tab">Home</string>
+    <string name="fav_tab">Favourites</string>
+
+    <string name="search">Search All ...</string>
+    <string name="search_tip">Please Insert More than 3 Character To search...</string>
+    <string name="network_messege_alert">\"Please Check Your Network Connection :( \"</string>
+
+</resources>
